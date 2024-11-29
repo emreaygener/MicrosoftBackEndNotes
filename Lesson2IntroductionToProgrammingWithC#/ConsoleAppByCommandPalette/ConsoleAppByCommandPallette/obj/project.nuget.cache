@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q3TAgfe/45w=",
+  "dgSpecHash": "gJWCwzv8K0s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emre Aygener\\Desktop\\Development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\ConsoleAppByCommandPalette\\ConsoleAppByCommandPallette\\ConsoleAppByCommandPallette.csproj",
+  "projectFilePath": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\ConsoleAppByCommandPalette\\ConsoleAppByCommandPallette\\ConsoleAppByCommandPallette.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emre Aygener\\.nuget\\packages\\pastel\\6.0.0\\pastel.6.0.0.nupkg.sha512"
   ],

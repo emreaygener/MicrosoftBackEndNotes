@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emre Aygener\\desktop\\development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\InitialCreate\\InitialCreate.csproj",
+      "projectUniqueName": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\InitialCreate\\InitialCreate.csproj",
       "projectName": "InitialCreate",
-      "projectPath": "C:\\Users\\Emre Aygener\\desktop\\development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\InitialCreate\\InitialCreate.csproj",
+      "projectPath": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\InitialCreate\\InitialCreate.csproj",
       "packagesPath": "C:\\Users\\Emre Aygener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emre Aygener\\desktop\\development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\InitialCreate\\obj\\",
+      "outputPath": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\InitialCreate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

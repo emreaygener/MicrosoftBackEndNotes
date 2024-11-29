@@ -1,48 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
-      "Pastel/6.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net9.0/Pastel.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Pastel.dll": {
-            "related": ".xml"
-          }
-        }
-      }
-    }
+    "net9.0": {}
   },
-  "libraries": {
-    "Pastel/6.0.0": {
-      "sha512": "WVSscTHQwrImX+/cuvQ5wEzbsPHCWvIG+MPQ8QtL69BpMagz8nRROYz0G1RgUeQ7LCJNs7J0eUyEqMiuX2BydQ==",
-      "type": "package",
-      "path": "pastel/6.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "README.md",
-        "icon.png",
-        "lib/net462/Pastel.dll",
-        "lib/net462/Pastel.xml",
-        "lib/net8.0/Pastel.dll",
-        "lib/net8.0/Pastel.xml",
-        "lib/net9.0/Pastel.dll",
-        "lib/net9.0/Pastel.xml",
-        "pastel.6.0.0.nupkg.sha512",
-        "pastel.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": [
-      "Pastel >= 6.0.0"
-    ]
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\Emre Aygener\\.nuget\\packages\\": {},
@@ -51,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\ConsoleAppByCommandPalette\\ConsoleAppByCommandPallette\\ConsoleAppByCommandPallette.csproj",
-      "projectName": "ConsoleAppByCommandPallette",
-      "projectPath": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\ConsoleAppByCommandPalette\\ConsoleAppByCommandPallette\\ConsoleAppByCommandPallette.csproj",
+      "projectUniqueName": "C:\\Users\\Emre Aygener\\Desktop\\Development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "C:\\Users\\Emre Aygener\\Desktop\\Development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Emre Aygener\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Emre Aygener\\Desktop\\Development\\Microsoft-BackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\ConsoleAppByCommandPalette\\ConsoleAppByCommandPallette\\obj\\",
+      "outputPath": "C:\\Users\\Emre Aygener\\Desktop\\Development\\MicrosoftBackendDeveloperCourse\\Lesson2IntroductionToProgrammingWithC#\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,12 +57,6 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
-        "dependencies": {
-          "Pastel": {
-            "target": "Package",
-            "version": "[6.0.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
