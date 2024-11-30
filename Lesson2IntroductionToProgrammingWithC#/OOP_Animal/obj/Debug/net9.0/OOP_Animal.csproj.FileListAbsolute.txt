@@ -1,0 +1,15 @@
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\bin\Debug\net9.0\OOP_Animal.exe
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\bin\Debug\net9.0\OOP_Animal.deps.json
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\bin\Debug\net9.0\OOP_Animal.runtimeconfig.json
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\bin\Debug\net9.0\OOP_Animal.dll
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\bin\Debug\net9.0\OOP_Animal.pdb
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.AssemblyInfoInputs.cache
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.AssemblyInfo.cs
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.csproj.CoreCompileInputs.cache
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.sourcelink.json
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.dll
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\refint\OOP_Animal.dll
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.pdb
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\OOP_Animal.genruntimeconfig.cache
+C:\Users\Emre Aygener\Desktop\Development\Microsoft-BackendDeveloperCourse\Lesson2IntroductionToProgrammingWithC#\OOP_Animal\obj\Debug\net9.0\ref\OOP_Animal.dll
