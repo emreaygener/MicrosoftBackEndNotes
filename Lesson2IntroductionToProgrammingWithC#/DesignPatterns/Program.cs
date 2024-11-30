@@ -30,6 +30,11 @@
 
         subject.Notify("Hello, Observers!"); // Outputs: "Observer 1 received message: Hello, Observers!"
                                              //          "Observer 2 received message: Hello, Observers!"
+        Test test = new Test("Some string");
+        test.ChangeName = "Another string";
+        Console.WriteLine(test.Name); // Outputs: Another string
+        var testValue = test.ChangeName;
+        Console.WriteLine(testValue); // Outputs: Some string Getter
 
     }
 }
