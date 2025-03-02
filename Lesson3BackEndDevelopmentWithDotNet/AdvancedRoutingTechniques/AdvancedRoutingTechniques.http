@@ -1,0 +1,22 @@
+@AdvancedRoutingTechniques_HostAddress = http://localhost:5045
+
+GET {{AdvancedRoutingTechniques_HostAddress}}/
+Accept: application/json
+
+###
+GET {{AdvancedRoutingTechniques_HostAddress}}/users/1/posts/test
+
+###
+GET {{AdvancedRoutingTechniques_HostAddress}}/products/1
+
+###
+GET {{AdvancedRoutingTechniques_HostAddress}}/reports/2024
+
+###
+GET {{AdvancedRoutingTechniques_HostAddress}}/files/2024/img/1.jpg
+
+###
+GET {{AdvancedRoutingTechniques_HostAddress}}/search?query=dotnet&page=2
+
+###
+GET {{AdvancedRoutingTechniques_HostAddress}}/store/tech/24/telemetrydata/column/125?inStock=false

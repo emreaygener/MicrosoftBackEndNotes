@@ -1,0 +1,36 @@
+@CRUDApis_HostAddress = http://localhost:5214
+
+###
+GET {{CRUDApis_HostAddress}}/blogs
+Accept: application/json
+
+###
+
+GET {{CRUDApis_HostAddress}}/blogs/1
+Accept: application/json
+
+### 
+# Create a new blog post
+POST {{CRUDApis_HostAddress}}/blogs
+Content-Type: application/json
+
+{
+    "title": "New Blog Post",
+    "body": "This is the content of the new blog post."
+}
+
+### 
+# Create a new blog post
+PUT {{CRUDApis_HostAddress}}/blogs/1
+Content-Type: application/json
+
+{
+    "title": "Updated Blog Post",
+    "body": "This is the content of the new blog post."
+}
+
+###
+
+# Delete a blog post
+DELETE {{CRUDApis_HostAddress}}/blogs/1
+Accept: application/json
