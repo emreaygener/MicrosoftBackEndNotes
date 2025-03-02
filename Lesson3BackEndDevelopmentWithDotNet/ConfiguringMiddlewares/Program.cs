@@ -18,6 +18,7 @@ var app = builder.Build();
 
 app.UseGlobalExceptionMiddleware();
 // app.UseHttpsRedirection();
+// dotnet run --launch-profile https
 
 app.MapGet("/", () => "Hello World!");
 app.MapGet("/hello", () => "This is the hello route!");
